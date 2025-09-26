@@ -7,7 +7,7 @@ An OSINT username & email scanner designed for accuracy (minimizes false positiv
 
 ShadowHunter 2.0 scans a username (or derives usernames from an email) across many social, code and media platforms and reports which ones exist. It’s intentionally conservative — when in doubt, it prefers NOTFOUND to avoid false positives. Every positive hit includes a meta.source explaining why it was accepted.
 
-<img width="790" height="489" alt="image" src="https://github.com/user-attachments/assets/a49d5573-dfe7-4fa3-8894-5f0b9c50a680" />
+<img width="790" height="491" alt="image" src="https://github.com/user-attachments/assets/0e515a7a-966e-4c8a-8e94-dec551a88a20" />
 
 ✨ Highlights
 
